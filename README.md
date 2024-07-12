@@ -1,4 +1,9 @@
 MoviesApplication created with Spring Boot, React.JS and MongoDB as database.
+It is an web application where you can watch a movie's trailer, make comments and see posters. 
+
+
+
+
 ![image](https://github.com/user-attachments/assets/d7caf05f-d8fd-4c9e-ac50-887e2f2fbad9) ![image](https://github.com/user-attachments/assets/4701d503-5e10-452d-a951-95365571731e) ![image](https://github.com/user-attachments/assets/20ebf520-78fd-407f-b8d7-240d58abeadb)
 
 
